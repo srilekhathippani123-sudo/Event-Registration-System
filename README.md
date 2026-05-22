@@ -1,10 +1,10 @@
 # Event-Registration-System
 
-Description:
+📖 Description:
 An Event Registration System is a software application used to manage event registrations online. It helps organizers create events, collect participant details, manage attendee records, and generate confirmations automatically. The system reduces manual work, saves time, and improves accuracy in handling event data.
 
 
-Objective:
+📌Objective:
 1.To simplify the event registration process.
 2.To store participant information securely.
 3.To reduce paperwork and manual errors.
@@ -12,7 +12,7 @@ Objective:
 5.To help organizers manage events efficiently.
 
 
-Features:
+🎯Features:
 1.User registration and login
 2.Event creation and management
 3.Online participant registration
@@ -25,7 +25,7 @@ Features:
 10.Report generation
 
 
-How It Works:
+⚙️How It Works:
 1.The organizer creates an event in the system.
 2.Users open the registration page.
 3. enter their details such as name, email, phone number, and event choice.
@@ -35,7 +35,7 @@ How It Works:
 7.Admin can view and manage all registered participants.
 
 
-How It Runs:
+▶️How It Runs:
 1.The system runs on a computer or web server.
 2.Frontend technologies like HTML, CSS, and JavaScript are used for the user interface.
 3.Backend technologies such as Python, Java, PHP, or Node.js process the data.
@@ -43,7 +43,7 @@ How It Runs:
 5.Users access the system through a web browser.
 
 
-Sample Output:
+🖥️Sample Output:
 Plain text
 ---------------------------------
       EVENT REGISTRATION
